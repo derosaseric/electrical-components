@@ -1,5 +1,6 @@
 import { useState } from "react";
 import data from "./data";
+import "./styles.css";
 
 // single selection accordion method
 export default function Accordion() {
