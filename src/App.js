@@ -1,8 +1,9 @@
 import './App.css';
+import Accordion from './components';
 
 function App() {
     return (
-        <div>
+        <div className="App">
             {/* Accordion component */}
             <Accordion/>
         </div>
